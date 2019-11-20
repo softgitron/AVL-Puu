@@ -28,8 +28,8 @@ Varsinaisen ohjelman lisäksi tästä repositoriosta löytyy kaksi apuohjelmaa. 
 Analyysi.m on pieni Matlab skripti, jolla voi piirtää kuvaajan *testaa_nopeuksia.sh*:n tuotoksista. Skriptin voi avata Matlabissa ja yrittää ajaa sen samassa kansiossa kuin csv-tiedostonkin, jolloin skriptin pitäisi piirtää kuvaaja.
 
 ### Lisättäviä ominaisuuksia
-[ ] Alkioiden poisto
-[ ] Tehokkaampi muistin varasu (ei aina uutta mallocia)
-[ ] Parempi tulostus
-[ ] Lisää selkeyttä painojen päivittämiseen kiertojen yhteydessä
-[ ] Parempi Makefile
+- [ ] Alkioiden poisto
+- [ ] Tehokkaampi muistin varasu (ei aina uutta mallocia)
+- [ ] Parempi tulostus
+- [ ] Lisää selkeyttä painojen päivittämiseen kiertojen yhteydessä
+- [ ] Parempi Makefile
