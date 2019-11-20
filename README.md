@@ -29,7 +29,7 @@ Analyysi.m on pieni Matlab skripti, jolla voi piirtää kuvaajan *testaa_nopeuks
 
 ### Lisättäviä ominaisuuksia
 - [ ] Alkioiden poisto
-- [ ] Tehokkaampi muistin varasu (ei aina uutta mallocia)
+- [ ] Tehokkaampi muistin varaus (ei aina uutta mallocia)
 - [ ] Parempi tulostus
 - [ ] Lisää selkeyttä painojen päivittämiseen kiertojen yhteydessä
 - [ ] Parempi Makefile
